@@ -1,0 +1,8 @@
+@import "side-menu.css";
+@import "slide.css";
+
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
