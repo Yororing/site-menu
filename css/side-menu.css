@@ -9,7 +9,7 @@ input[id=menu-icon] + label {
     height: 40px;
     position: relative;
     top: 15px;
-    left: -350px;
+    left: -430px;
     transition: all 0.35s;
     cursor: pointer;
 }
